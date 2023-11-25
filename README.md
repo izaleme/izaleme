@@ -26,5 +26,5 @@ object IZABELA {
 </a>
 
 <a href="https://github.com/Gurupreet" title="perfilMap">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=izaleme&show_icons=true&theme=dracula&line_height=27" alt="Izabela github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=izaleme&show_icons=true&theme=dracula&line_height=27" alt="Izabela github stats"/>
 </a>  
